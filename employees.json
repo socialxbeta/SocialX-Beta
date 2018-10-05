@@ -1,12 +1,12 @@
 {
 	"employees":[
 		{
-			"bug":"Slow Render",
-			"improvement":"jenny@gmail.com"
+			"version":"Slow Render",
+			"improvements":"jenny@gmail.com"
 		},
 		{
-			"bug":"Jeremy",
-			"improvement":"jeremy@gmail.com"
+			"version":"Jeremy",
+			"improvements":"jeremy@gmail.com"
 		}
 	]
 }
