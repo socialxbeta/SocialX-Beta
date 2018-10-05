@@ -2,11 +2,11 @@
 	"employees":[
 		{
 			"version":"v0.0.2 Beta",
-			"improvements":"jenny@gmail.com"
+			"bugs":"jenny@gmail.com"
 		},
 		{
 			"version":"v0.0.1 Beta",
-			"improvements":"jeremy@gmail.com"
+			"bugs":"jeremy@gmail.com"
 		}
 	]
 }
