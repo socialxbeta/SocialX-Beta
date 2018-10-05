@@ -1,11 +1,11 @@
 {
 	"employees":[
 		{
-			"version":"Slow Render",
+			"version":"v0.0.2β",
 			"improvements":"jenny@gmail.com"
 		},
 		{
-			"version":"Jeremy",
+			"version":"v0.0.1β",
 			"improvements":"jeremy@gmail.com"
 		}
 	]
