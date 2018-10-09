@@ -2,6 +2,10 @@
 	"versions":[
 		{
 			"version":"v1.0.0",
+			"bugs":"Now you can see the posts which where taged with a specific word!"
+		},
+		{
+			"version":"v1.0.0",
 			"bugs":"Now you can tag something or someone! Are you ready?"
 		},
 		{
