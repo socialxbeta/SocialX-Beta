@@ -2,15 +2,7 @@
 	"versions":[
 		{
 			"version":"v1.0.0",
-			"bugs":"Now you can see the posts which where taged with a specific word!"
-		},
-		{
-			"version":"v1.0.0",
-			"bugs":"Now you can tag something or someone! Are you ready?"
-		},
-		{
-			"version":"Check Message Activity",
-			"bugs":"The messages were hided to check if the app is closing too. Please report if the app is closing again aor not when you try to enter in a message. Thank you!"
+			"bugs":"Now you can see the messages in real time without error! Try the new version."
 		}
 	]
 }
