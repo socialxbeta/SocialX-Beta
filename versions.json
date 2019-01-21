@@ -2,7 +2,7 @@
 	"versions":[
 		{
 			"version":"beta v0.23.4a",
-			"bugs":"-new option for crash reports log in settings screen;\n-less memory will be used added by the main app;"
+			"bugs":"null"
 		}
 	]
 }
