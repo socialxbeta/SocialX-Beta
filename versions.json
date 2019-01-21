@@ -1,12 +1,8 @@
 {
 	"versions":[
 		{
-			"version":"v1.0.0",
-			"bugs":"-Camera button from message has changed;\n-Now the messages are colored and the chat room has his own wallpaper;\n-Image preview from posts is under construction;"
-		},
-		{
-			"version":"v1.0.0",
-			"bugs":"Now you can see the messages in real time without error! Try the new version."
+			"version":"beta v0.23.4a",
+			"bugs":"-new option for crash reports log in settings screen;\n-less memory will be used added by the main app;"
 		}
 	]
 }
