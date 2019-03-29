@@ -1,0 +1,1 @@
+Android Studio este mediul oficial de dezvoltare integrat (eng. Official Integrated Development Environment or just IDE) pentru sistemul de operare al lui Google, Android, construit pe software-ul JetBrains' IntelliJ IDEA si proiectat special pentru dezvoltarea Android-ului.
